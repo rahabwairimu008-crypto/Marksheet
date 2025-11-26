@@ -14,7 +14,7 @@ It is designed for academic use, providing a clear and professional output simil
 - Error handling for invalid inputs
 
 ##  Technologies Used
-*Language:** Java (console-based, no arrays/loops)  
+- **Language:** Java (console-based, no arrays/loops)  
 - **IDE:** IntelliJ IDEA  
 - **Version Control:** Git & GitHub 
 
