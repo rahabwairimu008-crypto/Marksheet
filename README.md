@@ -14,8 +14,9 @@ It is designed for academic use, providing a clear and professional output simil
 - Error handling for invalid inputs
 
 ##  Technologies Used
-- Java (console-based program, no arrays/loops )
-- GitHub for version control and documentation
+*Language:** Java (console-based, no arrays/loops)  
+- **IDE:** IntelliJ IDEA  
+- **Version Control:** Git & GitHub 
 
 ##  How to Run
 1. Clone the repository:
